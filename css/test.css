@@ -1,0 +1,26 @@
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  color: cadetblue;
+  font-size: 44px;
+  text-decoration: underline;
+}
+
+.small {
+  font-size: 12px;
+}
+
+h2 {
+  font-size: 22px;
+  color: darkcyan;
+}
+
+span {
+  font-style: italic;
+}
+
+h2 span {
+  text-decoration: line-through;
+}
